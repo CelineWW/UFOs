@@ -10,7 +10,7 @@ Describe to Dana how someone might use the new webpage by walking her through th
 
 
 # Summary
-Overall, the background and image of space macthes the content of webpage. Multiple Filters works functionally. However, it is not perfect. it can be improved. 
+Overall, the theme and background image matchs the UFOs content very well. Multiple Filters work functionally. Still, the webpage can be improved a little bit. 
   1. one drawback of this webpage
      The data source is limited. The observation record of UFOs is only cover the date from 1/1/2020 through 1/13/2020. 
   
