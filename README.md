@@ -2,16 +2,18 @@
 
 This project is focusing on developing a dynamic webpage by inserting JavaScript data source into an HTML page. 
 1. Build a table to hold and display UFO observation data.
-2. Add a filter to take user inputs and refine the table accordingly through multi-filters. 
+2. Add a filter to take user inputs and adjust the table accordingly through multi-filters. 
 3. Insert the table into an well-structured HTML page.
 4. Use bootstrap and css to style the webpage.
-5. Add title and an article to webpage as a brief introduction for the analysis.
+5. Add title and an article to webpage as a brief introduction for the analysis background.
 
 # Result
 
-and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
-
+This dynamic webpage can be exploryed by doing following steps:
+  - Open the webpage by clicking index.html
+  - Browse the title and summary article.
+  - In the input field on left bottom, insert one or more filter, press `Enter` to refine the table. Multi-filter includes: date, city, state, country, and shape. 
+  - Change the input to refilter the table or clear the filter input and press `Enter` to go back to full table. User may also access to the full table by clicking `UFO Sightings` on top left corner.
 
 # Summary
 Overall, the webpage looks nice. The content are coherent. Multi-filters work functionally. The theme and background image match the UFOs content very well. Still, the webpage can be improved a little bit. 
