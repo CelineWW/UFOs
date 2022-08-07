@@ -31,7 +31,8 @@ Enter a Shape: sphere
 
   - Change the input to refilter the table or clear the filter input and then press `Enter` to go back to full table. User may also access to the full table by clicking `UFO Sightings` at the top left corner.
 
-![UFO sightings](https://user-images.githubusercontent.com/105877888/183300288-45984dbf-739a-4639-a090-4a09fd99b1ea.PNG)
+![UFO sightings](https://user-images.githubusercontent.com/105877888/183300380-6dc1fb37-cba4-4b7c-b51e-c0ca312b72d9.PNG)
+
 
 
 # Summary
