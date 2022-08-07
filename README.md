@@ -11,11 +11,12 @@ This project is focusing on developing a dynamic webpage by inserting JavaScript
 
 This dynamic webpage can be explored by doing following steps:
   - Open the webpage by clicking index.html
+  - Browse the title, summary article, and table columns.
+  
 ![tableData](https://user-images.githubusercontent.com/105877888/183300021-9cdf0929-f64d-4853-baea-75c98c0c3c41.PNG)
 
-
-  - Browse the title, summary article, and table columns.
   - In the input fields at the bottom left, insert one or more filters, press `Enter` to refine the table. Multi-filter includes: date, city, state, country, and shape. 
+  
 ![filters](https://user-images.githubusercontent.com/105877888/183300068-45127114-001a-4593-a319-142b1803a01e.PNG)
 
 *An example multi-filter and its result:*
@@ -28,12 +29,9 @@ Enter a Shape: sphere
 ```
 ![multiple filter](https://user-images.githubusercontent.com/105877888/183300081-f6e97679-f01f-4357-9b56-687da8b42df8.PNG)
 
-
-
   - Change the input to refilter the table or clear the filter input and then press `Enter` to go back to full table. User may also access to the full table by clicking `UFO Sightings` at the top left corner.
 
 ![tableData](https://user-images.githubusercontent.com/105877888/183300091-de1c20f3-8011-4b7e-8889-075b2477d817.PNG)
-
 
 
 # Summary
